@@ -8,12 +8,20 @@ section {
     min-height: 100vh;
 }
 
-.height25 {
-    height: 25vh;
+.heightNameSec {
+    height: 185px;
 }
 
-.height10 {
-    height: 10vh;
+.heightIntroductionSec {
+    height: 30px;
+}
+
+.paddingIntroductionSec{
+    padding: 10px;
+}
+
+.buttonMarginIntroductionSec{
+    margin-bottom: 15px;
 }
 
 /*----------------------------------------------------------------------------------------------*/
@@ -23,7 +31,7 @@ section {
 
 .picsecchild01{
     position: absolute;
-    top: 15vh;
+    top: 110px;
     width:100%;
 }
 
@@ -48,7 +56,7 @@ section {
 }
 /*---------------------------------------------------------------------------------------------*/
 .skillsec01{
-    min-height: 55vh;
+    min-height: 390px;
     width: 100%;
     margin-top: 30px;
     position: relative;
@@ -66,9 +74,9 @@ section {
 }
 
 .skillsec04{
-    padding-top: 5vh;
-    padding-right: 5vh;
-    padding-left: 5vh;
+    padding-top: 35px;
+    padding-right: 35px;
+    padding-left: 35px;
 }
 
 .skillseccircle{
@@ -76,8 +84,8 @@ section {
     border-radius: 5px;
 }
 
-.height01{
-    height: 1vh;
+.heightSkillCircle{
+    height: 5px;
 }
 
 .height05-01{
